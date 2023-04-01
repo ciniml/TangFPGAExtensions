@@ -1,5 +1,6 @@
 Gerber*/*.zip
-FreeRouting.exe
 *-backups
 *-cache
-\#auto_saved_files#
+*.kicad_sch-bak
+_autosave-*
+Local
