@@ -12,6 +12,11 @@
 | R1, R2, R3, R4, R5, R6, R7, R8, | 8    | 470Ω 1/6W                            | [秋月電子](https://akizukidenshi.com/catalog/g/gR-16471/) |               |
 | U1,                             | 1    | OSL641501-ARA                        | [秋月電子](OSL641501-AXA)                                 |               |
 
+## 回路図
+
+![回路図 (SVG)](./doc/Pmod_MatrixLED_Schematic.svg)
+![回路図 (PDF)](./doc/Pmod_MatrixLED_Schematic.pdf)
+
 ## 外観
 
 ![ボード画像1](./doc/Pmod_MatrixLED_board.png)

@@ -4722,7 +4722,7 @@
   )
 
   (symbol (lib_id "Graphic:Logo_Open_Hardware_Small") (at 21.59 22.86 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f9633da)
     (property "Reference" "LOGO1" (at 21.59 15.875 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -4746,7 +4746,7 @@
   )
 
   (symbol (lib_id "Mechanical:MountingHole") (at 36.83 20.32 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005fa4b66b)
     (property "Reference" "H1" (at 39.37 19.1516 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -4770,7 +4770,7 @@
   )
 
   (symbol (lib_id "Mechanical:MountingHole") (at 36.83 25.4 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005fa4bd8b)
     (property "Reference" "H2" (at 39.37 24.2316 0)
       (effects (font (size 1.27 1.27)) (justify left))
