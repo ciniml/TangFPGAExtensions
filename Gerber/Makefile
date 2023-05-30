@@ -4,6 +4,7 @@ REVISION_Pmod_Debug := A
 REVISION_Pmod_HUB75 := A
 REVISION_Pmod_LED := A
 REVISION_Pmod_MatrixLED := B
+REVISION_Pmod_MultiSegment_SinglePort := A
 REVISION_TangNano_PmodBase := B
 REVISION_TangNano20K_PmodBase := A
 REVISION_TangPrimer_PmodExtender := B
