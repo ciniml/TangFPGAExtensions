@@ -17,7 +17,7 @@ Tang Primer 20K Pmod ExtenderはTang Primer 20KのPmod相当ポート4つに接�
 ## 回路図
 
 ![回路図 (SVG)](./doc/TangPrimer_PmodExtender_Schematic.svg)
-![回路図 (PDF)](./doc/TangPrimer_PmodExtender_Schematic.pdf)
+[回路図 (PDF)](./doc/TangPrimer_PmodExtender_Schematic.pdf)
 
 ## 外観
 

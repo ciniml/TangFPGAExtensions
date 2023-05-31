@@ -50,16 +50,7 @@
         }
       },
       "diff_pair_dimensions": [],
-      "drc_exclusions": [
-        "courtyards_overlap|144819999|50420001|7acbd7d7-f8ce-4a5c-8114-59a75f084804|d5886343-d4ca-4593-92cc-1c503dbd6c08",
-        "courtyards_overlap|144819999|52960001|b078fe62-0aa5-4a33-a383-f332f40069e3|d5886343-d4ca-4593-92cc-1c503dbd6c08",
-        "courtyards_overlap|144819999|85980001|83fdac5b-85f0-4772-9688-6ef5711d22f0|f252d701-1a3d-45c6-9cf9-fb046f4dbd6a",
-        "courtyards_overlap|144819999|88520001|83fdac5b-85f0-4772-9688-6ef5711d22f0|8ee70e9c-2209-4a9b-be82-058323e132d5",
-        "courtyards_overlap|82820001|91060001|8ee70e9c-2209-4a9b-be82-058323e132d5|f5eb5c6d-91d7-4fc0-8ff8-0ea39125ec25",
-        "courtyards_overlap|85340001|91060001|33eb9220-6615-42ce-8f87-be1d51286a16|8ee70e9c-2209-4a9b-be82-058323e132d5",
-        "courtyards_overlap|85340001|91060001|33eb9220-6615-42ce-8f87-be1d51286a16|f5eb5c6d-91d7-4fc0-8ff8-0ea39125ec25",
-        "courtyards_overlap|98040001|91060001|8ee70e9c-2209-4a9b-be82-058323e132d5|e5a756d7-e7b4-468f-9ef4-7dcf76198eba"
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -69,14 +60,14 @@
         "connection_width": "warning",
         "copper_edge_clearance": "error",
         "copper_sliver": "warning",
-        "courtyards_overlap": "error",
+        "courtyards_overlap": "ignore",
         "diff_pair_gap_out_of_range": "error",
         "diff_pair_uncoupled_length_too_long": "error",
         "drill_out_of_range": "error",
         "duplicate_footprints": "warning",
         "extra_footprint": "warning",
         "footprint": "error",
-        "footprint_type_mismatch": "error",
+        "footprint_type_mismatch": "ignore",
         "hole_clearance": "error",
         "hole_near_hole": "error",
         "invalid_outline": "error",
@@ -407,7 +398,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "TangNano_PmodBase.kicad_pro",
+    "filename": "TangNano20K_PmodBase.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -482,7 +473,7 @@
       "workbook_filename": ""
     },
     "page_layout_descr_file": "",
-    "plot_directory": "",
+    "plot_directory": "doc/",
     "spice_adjust_passive_values": false,
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",

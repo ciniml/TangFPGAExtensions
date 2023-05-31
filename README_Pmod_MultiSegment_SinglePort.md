@@ -18,7 +18,7 @@ FPGA側の制御回路は少し複雑になりますが、Pmodポートを他に
 ## 回路図
 
 ![回路図 (SVG)](./doc/Pmod_MultiSegment_SinglePort.svg)
-![回路図 (PDF)](./doc/Pmod_MultiSegment_SinglePort.pdf)
+[回路図 (PDF)](./doc/Pmod_MultiSegment_SinglePort.pdf)
 
 ## 外観
 

@@ -15,7 +15,7 @@
 ## 回路図
 
 ![回路図 (SVG)](./doc/Pmod_MatrixLED_Schematic.svg)
-![回路図 (PDF)](./doc/Pmod_MatrixLED_Schematic.pdf)
+[回路図 (PDF)](./doc/Pmod_MatrixLED_Schematic.pdf)
 
 ## 外観
 
