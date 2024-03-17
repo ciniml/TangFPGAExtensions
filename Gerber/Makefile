@@ -9,7 +9,7 @@ REVISION_TangNano_PmodBase := B
 REVISION_TangNano20K_PmodBase := B
 REVISION_TangPrimer_PmodExtender := B
 REVISION_Pmod_Adapter_Ethernet := A
-REVISION_Pmod_DisplayPort := A
+REVISION_Pmod_DisplayPort := B
 
 # Targets
 TARGETS := $(sort $(subst /,,$(wildcard */)))
