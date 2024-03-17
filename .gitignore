@@ -4,5 +4,4 @@ Gerber*/*.zip
 *.kicad_sch-bak
 _autosave-*
 Local
-*.csv
 *.xml
