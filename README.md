@@ -26,6 +26,7 @@ Sipeedが製造・販売している、Tang Nano 9K, Tang Nano 20K およびTang
 | Pmod LED Board                                                              | TN9K,TP20K | Pmodのデバッグ用LED基板                         | [Pmod_LED.kicad_pro](./Pmod_LED.kicad_pro)                                         | Rev. A     |
 | [Pmod Matrix LED](./README_Pmod_MatrixLED.md)                               | TN9K,TP20K | 8x8単色LEDマトリクスPmod基板                    | [Pmod_MatrixLED.kicad_pro](./Pmod_MatrixLED.kicad_pro)                             | Rev. B     |
 | [Pmod MultiSegment (Single Port)](./README_Pmod_MultiSegment_SinglePort.md) | TN9K,TP20K | 6桁7+1セグメントLED Pmod基板 (シングルポート版) | [Pmod_MultiSegment_SinglePort.kicad_pro](./Pmod_MultiSegment_SinglePort.kicad_pro) | Rev. A     |
+| [Pmod Adapter Ethernet](./README_Pmod_Adapter_Ethernet.md) | TN9K,TP20K | LAN8720 Ethernet PHYボード用 Pmod アダプタ | [Pmod_Adapter_Ethernet.kicad_pro](./Pmod_Adapter_Ethernet.kicad_pro) | Rev. A     |
 
 ## ライセンス
 
